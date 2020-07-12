@@ -1,9 +1,6 @@
 <p align="center">
-  <h1>/h1>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
-
-<br>
 
 ### :rocket: Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
